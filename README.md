@@ -25,3 +25,5 @@
 
 - [Easy] Min Cost Climbing Stairs
   - Scala (완료)
+- [Medium] Minumum Cost for Ticket
+  - Scala (완료)
