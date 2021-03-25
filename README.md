@@ -7,10 +7,21 @@
 
 ### 연습 문제
 
-#### 스택/큐
+#### Stack/Queue
 
 - 다리를 지나는 트럭
   - Scala (완료)
+- 올바른 괄호
+  - Python3 (완료)
+
+#### Heap
+
+- 더 맵게
+  - Python3 (완료)
+- 디스크 컨트롤러
+  - Python3 (완료)
+- 이중우선순위큐
+  - Python3 (완료)
 
 ## LeetCode
 

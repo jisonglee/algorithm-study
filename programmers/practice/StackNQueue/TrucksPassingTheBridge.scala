@@ -1,6 +1,6 @@
 import scala.collection.mutable
 
-object Solution {
+object TrucksPassingTheBridge {
   def solution(bridge_length: Int, weight: Int, truck_weights: Vector[Int]): Int = {
     // 요소 추가 및 제거가 자유로운 mutable collection 사용
     // 코드 간결성 및 시간 복잡도 모두 고려하여 mutable collection이 immutable collection보다 이점이 있다고 판단
